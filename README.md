@@ -1,7 +1,5 @@
 # CodeClause_PYTHON_Development
 
-#CodeClause-internship
-
 Python Development Internship
 
 Task ditals-------
